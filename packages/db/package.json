@@ -1,5 +1,5 @@
 {
-  "name": "@swift-wallet/db",
+  "name": "@repo/db",
   "version": "0.0.0",
   "dependencies": {
       "@prisma/client": "^5.11.0"
